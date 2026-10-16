@@ -1,0 +1,8 @@
+# Temporary and build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
