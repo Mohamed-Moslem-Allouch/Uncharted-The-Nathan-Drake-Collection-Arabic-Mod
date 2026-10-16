@@ -17,7 +17,7 @@ Featuring high-definition native Arabic typography, full Right-to-Left (RTL) tex
 
 ## 🎬 Tutorial
 
-https://github.com/Mohamed-Moslem-Allouch/Uncharted-The-Nathan-Drake-Collection-Arabic-Mod/raw/main/assets/tutorial.mp4
+https://github.com/user-attachments/assets/b868094c-a8de-4e4b-b004-5f39ec4b8855
 
 ---
 
