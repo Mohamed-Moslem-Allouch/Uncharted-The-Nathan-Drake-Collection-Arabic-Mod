@@ -4,7 +4,7 @@
 
 ## 📖 About
 
-Full Arabic Localization Mod for **UNCHARTED: The Nathan Drake Collection** (PC Port Version).
+Full Arabic Localization Mod for **UNCHARTED: The Nathan Drake Collection** (PC Port Version) & PS4.
 
 After reverse-engineering and unpacking the original game engine and archives, I am pleased to present a complete and comprehensive Arabic localization covering the entire trilogy:
 - **UNCHARTED: Drake's Fortune**
